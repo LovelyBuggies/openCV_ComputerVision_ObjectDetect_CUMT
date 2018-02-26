@@ -1,0 +1,774 @@
+Using 20 frames to training GMM...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Train frame loading...
+
+Training GMM complete!
+
+21th frame : there are 0 targets.
+
+
+22th frame : there are 1 targets.
+
+The 1th target's initial center is 151, 121.
+The 1th target's measure center is 151, 121.
+The 1th target's predict center is 151, 121.
+After correction, the center is 151, 121.
+
+
+23th frame : there are 0 targets.
+
+
+24th frame : there are 1 targets.
+
+The 1th target's initial center is 151, 121.
+The 1th target's measure center is 152, 119.
+The 1th target's predict center is 151, 121.
+After correction, the center is 151.952, 119.095.
+
+
+25th frame : there are 1 targets.
+
+The 1th target's initial center is 151, 119.
+The 1th target's measure center is 148, 117.
+The 1th target's predict center is 151, 119.
+After correction, the center is 148.143, 117.095.
+
+
+26th frame : there are 1 targets.
+
+The 1th target's initial center is 148, 117.
+The 1th target's measure center is 154, 116.
+The 1th target's predict center is 148, 117.
+After correction, the center is 153.714, 116.048.
+
+
+27th frame : there are 1 targets.
+
+The 1th target's initial center is 153, 116.
+The 1th target's measure center is 136, 117.
+The 1th target's predict center is 153, 116.
+After correction, the center is 136.81, 116.952.
+
+
+28th frame : there are 1 targets.
+
+The 1th target's initial center is 136, 116.
+The 1th target's measure center is 149, 117.
+The 1th target's predict center is 136, 116.
+After correction, the center is 148.381, 116.952.
+
+
+29th frame : there are 1 targets.
+
+The 1th target's initial center is 148, 116.
+The 1th target's measure center is 149, 118.
+The 1th target's predict center is 148, 116.
+After correction, the center is 148.952, 117.905.
+
+
+30th frame : there are 1 targets.
+
+The 1th target's initial center is 148, 117.
+The 1th target's measure center is 154, 116.
+The 1th target's predict center is 148, 117.
+After correction, the center is 153.714, 116.048.
+
+
+31th frame : there are 1 targets.
+
+The 1th target's initial center is 153, 116.
+The 1th target's measure center is 153, 107.
+The 1th target's predict center is 153, 116.
+After correction, the center is 153, 107.429.
+
+
+32th frame : there are 1 targets.
+
+The 1th target's initial center is 153, 107.
+The 1th target's measure center is 159, 114.
+The 1th target's predict center is 153, 107.
+After correction, the center is 158.714, 113.667.
+
+
+33th frame : there are 1 targets.
+
+The 1th target's initial center is 158, 113.
+The 1th target's measure center is 158, 116.
+The 1th target's predict center is 158, 113.
+After correction, the center is 158, 115.857.
+
+
+34th frame : there are 1 targets.
+
+The 1th target's initial center is 158, 115.
+The 1th target's measure center is 159, 114.
+The 1th target's predict center is 158, 115.
+After correction, the center is 158.952, 114.048.
+
+
+35th frame : there are 1 targets.
+
+The 1th target's initial center is 158, 114.
+The 1th target's measure center is 161, 111.
+The 1th target's predict center is 158, 114.
+After correction, the center is 160.857, 111.143.
+
+
+36th frame : there are 1 targets.
+
+The 1th target's initial center is 160, 111.
+The 1th target's measure center is 160, 113.
+The 1th target's predict center is 160, 111.
+After correction, the center is 160, 112.905.
+
+
+37th frame : there are 1 targets.
+
+The 1th target's initial center is 160, 112.
+The 1th target's measure center is 163, 112.
+The 1th target's predict center is 160, 112.
+After correction, the center is 162.857, 112.
+
+
+38th frame : there are 1 targets.
+
+The 1th target's initial center is 162, 112.
+The 1th target's measure center is 163, 109.
+The 1th target's predict center is 162, 112.
+After correction, the center is 162.952, 109.143.
+
+
+39th frame : there are 1 targets.
+
+The 1th target's initial center is 162, 109.
+The 1th target's measure center is 164, 110.
+The 1th target's predict center is 162, 109.
+After correction, the center is 163.905, 109.952.
+
+
+40th frame : there are 1 targets.
+
+The 1th target's initial center is 163, 109.
+The 1th target's measure center is 165, 110.
+The 1th target's predict center is 163, 109.
+After correction, the center is 164.905, 109.952.
+
+
+41th frame : there are 1 targets.
+
+The 1th target's initial center is 164, 109.
+The 1th target's measure center is 166, 110.
+The 1th target's predict center is 164, 109.
+After correction, the center is 165.905, 109.952.
+
+
+42th frame : there are 1 targets.
+
+The 1th target's initial center is 165, 109.
+The 1th target's measure center is 165, 110.
+The 1th target's predict center is 165, 109.
+After correction, the center is 165, 109.952.
+
+
+43th frame : there are 1 targets.
+
+The 1th target's initial center is 165, 109.
+The 1th target's measure center is 171, 117.
+The 1th target's predict center is 165, 109.
+After correction, the center is 170.714, 116.619.
+
+
+44th frame : there are 1 targets.
+
+The 1th target's initial center is 170, 116.
+The 1th target's measure center is 164, 111.
+The 1th target's predict center is 170, 116.
+After correction, the center is 164.286, 111.238.
+
+
+45th frame : there are 1 targets.
+
+The 1th target's initial center is 164, 111.
+The 1th target's measure center is 163, 100.
+The 1th target's predict center is 164, 111.
+After correction, the center is 163.048, 100.524.
+
+
+46th frame : there are 1 targets.
+
+The 1th target's initial center is 163, 100.
+The 1th target's measure center is 162, 100.
+The 1th target's predict center is 163, 100.
+After correction, the center is 162.048, 100.
+
+
+47th frame : there are 1 targets.
+
+The 1th target's initial center is 162, 100.
+The 1th target's measure center is 167, 125.
+The 1th target's predict center is 162, 100.
+After correction, the center is 166.762, 123.81.
+
+
+48th frame : there are 1 targets.
+
+The 1th target's initial center is 166, 123.
+The 1th target's measure center is 161, 107.
+The 1th target's predict center is 166, 123.
+After correction, the center is 161.238, 107.762.
+
+
+49th frame : there are 1 targets.
+
+The 1th target's initial center is 161, 107.
+The 1th target's measure center is 160, 112.
+The 1th target's predict center is 161, 107.
+After correction, the center is 160.048, 111.762.
+
+
+50th frame : there are 0 targets.
+
+
+51th frame : there are 1 targets.
+
+The 1th target's initial center is 160, 111.
+The 1th target's measure center is 149, 128.
+The 1th target's predict center is 160, 111.
+After correction, the center is 149.524, 127.19.
+
+
+52th frame : there are 0 targets.
+
+
+53th frame : there are 1 targets.
+
+The 1th target's initial center is 149, 127.
+The 1th target's measure center is 169, 116.
+The 1th target's predict center is 149, 127.
+After correction, the center is 168.048, 116.524.
+
+
+54th frame : there are 1 targets.
+
+The 1th target's initial center is 168, 116.
+The 1th target's measure center is 181, 118.
+The 1th target's predict center is 168, 116.
+After correction, the center is 180.381, 117.905.
+
+
+55th frame : there are 1 targets.
+
+The 1th target's initial center is 180, 117.
+The 1th target's measure center is 191, 110.
+The 1th target's predict center is 180, 117.
+After correction, the center is 190.476, 110.333.
+
+
+56th frame : there are 1 targets.
+
+The 1th target's initial center is 190, 110.
+The 1th target's measure center is 178, 106.
+The 1th target's predict center is 190, 110.
+After correction, the center is 178.571, 106.19.
+
+
+57th frame : there are 1 targets.
+
+The 1th target's initial center is 178, 106.
+The 1th target's measure center is 170, 117.
+The 1th target's predict center is 178, 106.
+After correction, the center is 170.381, 116.476.
+
+
+58th frame : there are 1 targets.
+
+The 1th target's initial center is 170, 116.
+The 1th target's measure center is 173, 121.
+The 1th target's predict center is 170, 116.
+After correction, the center is 172.857, 120.762.
+
+
+59th frame : there are 1 targets.
+
+The 1th target's initial center is 172, 120.
+The 1th target's measure center is 174, 111.
+The 1th target's predict center is 172, 120.
+After correction, the center is 173.905, 111.429.
+
+
+60th frame : there are 2 targets.
+
+The 1th target's initial center is 156, 160.
+The 1th target's measure center is 156, 160.
+The 1th target's predict center is 156, 160.
+After correction, the center is 156, 160.
+
+The 2th target's initial center is 170, 110.
+The 2th target's measure center is 170, 110.
+The 2th target's predict center is 170, 110.
+After correction, the center is 170, 110.
+
+
+61th frame : there are 1 targets.
+
+The 1th target's initial center is 156, 160.
+The 1th target's measure center is 170, 109.
+The 1th target's predict center is 156, 160.
+After correction, the center is 169.333, 111.429.
+
+
+62th frame : there are 1 targets.
+
+The 1th target's initial center is 169, 111.
+The 1th target's measure center is 170, 109.
+The 1th target's predict center is 169, 111.
+After correction, the center is 169.952, 109.095.
+
+
+63th frame : there are 1 targets.
+
+The 1th target's initial center is 169, 109.
+The 1th target's measure center is 169, 123.
+The 1th target's predict center is 169, 109.
+After correction, the center is 169, 122.333.
+
+
+64th frame : there are 1 targets.
+
+The 1th target's initial center is 169, 122.
+The 1th target's measure center is 171, 110.
+The 1th target's predict center is 169, 122.
+After correction, the center is 170.905, 110.571.
+
+
+65th frame : there are 2 targets.
+
+The 1th target's initial center is 170, 110.
+The 1th target's measure center is 157, 158.
+The 1th target's predict center is 170, 110.
+After correction, the center is 157.619, 155.714.
+
+The 2th target's initial center is 170, 110.
+The 2th target's measure center is 171, 112.
+The 2th target's predict center is 170, 110.
+After correction, the center is 170.877, 111.754.
+
+
+66th frame : there are 1 targets.
+
+The 1th target's initial center is 157, 155.
+The 1th target's measure center is 172, 111.
+The 1th target's predict center is 157, 155.
+After correction, the center is 171.286, 113.095.
+
+
+67th frame : there are 1 targets.
+
+The 1th target's initial center is 171, 113.
+The 1th target's measure center is 172, 114.
+The 1th target's predict center is 171, 113.
+After correction, the center is 171.952, 113.952.
+
+
+68th frame : there are 1 targets.
+
+The 1th target's initial center is 171, 113.
+The 1th target's measure center is 169, 122.
+The 1th target's predict center is 171, 113.
+After correction, the center is 169.095, 121.571.
+
+
+69th frame : there are 0 targets.
+
+
+70th frame : there are 1 targets.
+
+The 1th target's initial center is 169, 121.
+The 1th target's measure center is 180, 107.
+The 1th target's predict center is 169, 121.
+After correction, the center is 179.476, 107.667.
+
+
+71th frame : there are 1 targets.
+
+The 1th target's initial center is 179, 107.
+The 1th target's measure center is 169, 125.
+The 1th target's predict center is 179, 107.
+After correction, the center is 169.476, 124.143.
+
+
+72th frame : there are 2 targets.
+
+The 1th target's initial center is 169, 124.
+The 1th target's measure center is 158, 156.
+The 1th target's predict center is 169, 124.
+After correction, the center is 158.524, 154.476.
+
+The 2th target's initial center is 170, 111.
+The 2th target's measure center is 167, 112.
+The 2th target's predict center is 170, 111.
+After correction, the center is 167.368, 111.877.
+
+
+73th frame : there are 1 targets.
+
+The 1th target's initial center is 158, 154.
+The 1th target's measure center is 163, 130.
+The 1th target's predict center is 158, 154.
+After correction, the center is 162.762, 131.143.
+
+
+74th frame : there are 1 targets.
+
+The 1th target's initial center is 162, 131.
+The 1th target's measure center is 166, 112.
+The 1th target's predict center is 162, 131.
+After correction, the center is 165.81, 112.905.
+
+
+75th frame : there are 0 targets.
+
+
+76th frame : there are 0 targets.
+
+
+77th frame : there are 0 targets.
+
+
+78th frame : there are 1 targets.
+
+The 1th target's initial center is 165, 112.
+The 1th target's measure center is 162, 106.
+The 1th target's predict center is 165, 112.
+After correction, the center is 162.143, 106.286.
+
+
+79th frame : there are 1 targets.
+
+The 1th target's initial center is 162, 106.
+The 1th target's measure center is 165, 113.
+The 1th target's predict center is 162, 106.
+After correction, the center is 164.857, 112.667.
+
+
+80th frame : there are 1 targets.
+
+The 1th target's initial center is 164, 112.
+The 1th target's measure center is 165, 112.
+The 1th target's predict center is 164, 112.
+After correction, the center is 164.952, 112.
+
+
+81th frame : there are 1 targets.
+
+The 1th target's initial center is 164, 112.
+The 1th target's measure center is 167, 110.
+The 1th target's predict center is 164, 112.
+After correction, the center is 166.857, 110.095.
+
+
+82th frame : there are 1 targets.
+
+The 1th target's initial center is 166, 110.
+The 1th target's measure center is 165, 102.
+The 1th target's predict center is 166, 110.
+After correction, the center is 165.048, 102.381.
+
+
+83th frame : there are 0 targets.
+
+
+84th frame : there are 0 targets.
+
+
+85th frame : there are 1 targets.
+
+The 1th target's initial center is 165, 102.
+The 1th target's measure center is 168, 113.
+The 1th target's predict center is 165, 102.
+After correction, the center is 167.857, 112.476.
+
+
+86th frame : there are 2 targets.
+
+The 1th target's initial center is 167, 112.
+The 1th target's measure center is 156, 160.
+The 1th target's predict center is 167, 112.
+After correction, the center is 156.524, 157.714.
+
+The 2th target's initial center is 167, 111.
+The 2th target's measure center is 168, 111.
+The 2th target's predict center is 167, 111.
+After correction, the center is 167.877, 111.
+
+
+87th frame : there are 1 targets.
+
+The 1th target's initial center is 156, 157.
+The 1th target's measure center is 165, 112.
+The 1th target's predict center is 156, 157.
+After correction, the center is 164.571, 114.143.
+
+
+88th frame : there are 0 targets.
+
+
+89th frame : there are 1 targets.
+
+The 1th target's initial center is 164, 114.
+The 1th target's measure center is 165, 112.
+The 1th target's predict center is 164, 114.
+After correction, the center is 164.952, 112.095.
+
+
+90th frame : there are 1 targets.
+
+The 1th target's initial center is 164, 112.
+The 1th target's measure center is 165, 127.
+The 1th target's predict center is 164, 112.
+After correction, the center is 164.952, 126.286.
+
+
+91th frame : there are 1 targets.
+
+The 1th target's initial center is 164, 126.
+The 1th target's measure center is 167, 111.
+The 1th target's predict center is 164, 126.
+After correction, the center is 166.857, 111.714.
+
+
+92th frame : there are 0 targets.
+
+
+93th frame : there are 1 targets.
+
+The 1th target's initial center is 166, 111.
+The 1th target's measure center is 165, 112.
+The 1th target's predict center is 166, 111.
+After correction, the center is 165.048, 111.952.
+
+
+94th frame : there are 1 targets.
+
+The 1th target's initial center is 165, 111.
+The 1th target's measure center is 165, 129.
+The 1th target's predict center is 165, 111.
+After correction, the center is 165, 128.143.
+
+
+95th frame : there are 1 targets.
+
+The 1th target's initial center is 165, 128.
+The 1th target's measure center is 167, 112.
+The 1th target's predict center is 165, 128.
+After correction, the center is 166.905, 112.762.
+
+
+96th frame : there are 0 targets.
+
+
+97th frame : there are 1 targets.
+
+The 1th target's initial center is 166, 112.
+The 1th target's measure center is 167, 112.
+The 1th target's predict center is 166, 112.
+After correction, the center is 166.952, 112.
+
+
+98th frame : there are 1 targets.
+
+The 1th target's initial center is 166, 112.
+The 1th target's measure center is 165, 111.
+The 1th target's predict center is 166, 112.
+After correction, the center is 165.048, 111.048.
+
+
+99th frame : there are 0 targets.
+
+
+100th frame : there are 0 targets.
+
+
+101th frame : there are 0 targets.
+
+
+102th frame : there are 1 targets.
+
+The 1th target's initial center is 165, 111.
+The 1th target's measure center is 168, 112.
+The 1th target's predict center is 165, 111.
+After correction, the center is 167.857, 111.952.
+
+
+103th frame : there are 1 targets.
+
+The 1th target's initial center is 167, 111.
+The 1th target's measure center is 166, 103.
+The 1th target's predict center is 167, 111.
+After correction, the center is 166.048, 103.381.
+
+
+104th frame : there are 0 targets.
+
+
+105th frame : there are 1 targets.
+
+The 1th target's initial center is 166, 103.
+The 1th target's measure center is 165, 112.
+The 1th target's predict center is 166, 103.
+After correction, the center is 165.048, 111.571.
+
+
+106th frame : there are 1 targets.
+
+The 1th target's initial center is 165, 111.
+The 1th target's measure center is 165, 105.
+The 1th target's predict center is 165, 111.
+After correction, the center is 165, 105.286.
+
+
+107th frame : there are 1 targets.
+
+The 1th target's initial center is 165, 105.
+The 1th target's measure center is 167, 111.
+The 1th target's predict center is 165, 105.
+After correction, the center is 166.905, 110.714.
+
+
+108th frame : there are 1 targets.
+
+The 1th target's initial center is 166, 110.
+The 1th target's measure center is 165, 112.
+The 1th target's predict center is 166, 110.
+After correction, the center is 165.048, 111.905.
+
+
+109th frame : there are 1 targets.
+
+The 1th target's initial center is 165, 111.
+The 1th target's measure center is 165, 112.
+The 1th target's predict center is 165, 111.
+After correction, the center is 165, 111.952.
+
+
+110th frame : there are 1 targets.
+
+The 1th target's initial center is 165, 111.
+The 1th target's measure center is 167, 111.
+The 1th target's predict center is 165, 111.
+After correction, the center is 166.905, 111.
+
+
+111th frame : there are 1 targets.
+
+The 1th target's initial center is 166, 111.
+The 1th target's measure center is 166, 101.
+The 1th target's predict center is 166, 111.
+After correction, the center is 166, 101.476.
+
+
+112th frame : there are 1 targets.
+
+The 1th target's initial center is 166, 101.
+The 1th target's measure center is 166, 112.
+The 1th target's predict center is 166, 101.
+After correction, the center is 166, 111.476.
+
+
+113th frame : there are 1 targets.
+
+The 1th target's initial center is 166, 111.
+The 1th target's measure center is 166, 112.
+The 1th target's predict center is 166, 111.
+After correction, the center is 166, 111.952.
+
+
+114th frame : there are 1 targets.
+
+The 1th target's initial center is 166, 111.
+The 1th target's measure center is 166, 112.
+The 1th target's predict center is 166, 111.
+After correction, the center is 166, 111.952.
+
+
+115th frame : there are 1 targets.
+
+The 1th target's initial center is 166, 111.
+The 1th target's measure center is 166, 111.
+The 1th target's predict center is 166, 111.
+After correction, the center is 166, 111.
+
+
+116th frame : there are 0 targets.
+
+
+117th frame : there are 1 targets.
+
+The 1th target's initial center is 166, 111.
+The 1th target's measure center is 168, 105.
+The 1th target's predict center is 166, 111.
+After correction, the center is 167.905, 105.286.
+
+
+118th frame : there are 1 targets.
+
+The 1th target's initial center is 167, 105.
+The 1th target's measure center is 168, 112.
+The 1th target's predict center is 167, 105.
+After correction, the center is 167.952, 111.667.
+
+
+119th frame : there are 1 targets.
+
+The 1th target's initial center is 167, 111.
+The 1th target's measure center is 167, 111.
+The 1th target's predict center is 167, 111.
+After correction, the center is 167, 111.
+
+
+120th frame : there are 1 targets.
+
+The 1th target's initial center is 167, 111.
+The 1th target's measure center is 165, 111.
+The 1th target's predict center is 167, 111.
+After correction, the center is 165.095, 111.
+
+
+121th frame : there are 0 targets.
+
+
+Program ended with exit code: 0
