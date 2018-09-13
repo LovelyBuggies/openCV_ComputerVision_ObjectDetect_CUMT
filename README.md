@@ -1,6 +1,6 @@
 ## openCV_ComputerVision_ObjectDetect_CUMT
 
-My internship project at CUMT in 2018.1~2018.2.
+> My internship project at CUMT from 2018.1 to 2018.2.
 
 ### Abstract
 
